@@ -4,6 +4,12 @@ Talk-A-Tive is a **Full Stack Real-Time Chatting Application** built with the ME
 
 ---
 
+
+![Uploading image.png…]()
+
+
+
+
 ## ✨ Features
 
 - 🔴 **Real-time messaging** — instant message delivery powered by Socket.io
